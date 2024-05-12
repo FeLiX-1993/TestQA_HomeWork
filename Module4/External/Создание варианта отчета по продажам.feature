@@ -1,0 +1,15 @@
+﻿#language: ru
+
+@tree
+@ExportScenarios
+
+Функционал: Создание варианта отчета по продажам
+   
+Контекст:
+	Дано Я запускаю сценарий открытия TestClient или подключаю уже существующий
+
+Сценарий: Создание варианта отчета по продажам
+
+И я проверяю или создаю для справочника "ReportOptions" объекты:
+	| 'Ref'                                                                   | 'DeletionMark' | 'Code'                                 | 'Description'                    | 'ObjectKey'          | 'Option'                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 'Author'                                                        |
+	| 'e1cib/data/Catalog.ReportOptions?ref=aa623c6aa7a1839311ef106f093eb96b' | 'False'        | 'c86f4c67-8ba5-4d6f-b187-3042132cc9fb' | 'Мой вариант отчета по продажам' | 'Report.D2001_Sales' | 'ValueStorage:AgFTS2/0iI3BTqDV67a9oKcN7VdLb9pAEO6VSDn3itxrzDohJBRtiOgjVdTm0ULT9mjsBVbFu2h3bYKi/LIe+pP6Fzp+gW0cx0nMIVKQJfDufN+Mx9/MDq1X4effn7832http2kd7o1GrQP9kBj7+n6z3dKHltHU3+7Z+0P7wGq2dq2d7a0b43Z769YH3rxeEuDja2da94iQlLMjbbdhaHXCLG5TNj7Svg9O9LZ23N3ewn2iFKzJOtgzeaRNlJp1EPLajV2rIVwE38g2lalb3JlxSRXw6XIhFXGQjLBaCO7YlrS4eBgHAEiMl2oxJXfDkUtRYLK0X8hi6xFnSqLQUwzy2gWYZDRe26WF9LHhnAyLw7D4lAuJwG4JoawchDKbz5cJvl4973w+b8ybDS7GaM8wdtHPsy99a0Icc2VL7zfWKZPKZBbRQAs1LMmUWP7b8e9qmELa6sDTUYsZvJd+sEvsU1g+oWRqByCwG/k33XcCiCYYhXcBAfIZHsP1HoRiskVFZK4QoP2K2c64RxzC1ABA1TB/MBeXRFBuV0N3yjxOrYpi85erY/pMKnoZZ1DgkyqT9o1AC7CJqIatD2zMrjK+H4T8rpLvFzFFlXxfXZMpqhYDVzAokIry2HO4C5VWKec5UZugvRiN4NAtw4xRqt1iv/VfmsJ0iAKG0Dg8UTtrIYTn7tL6ypy6JI4jwriSdEfmVEIDSKykTGYxvhtLYG0jZe/5bhJxeO1OH04P2xSRxqMQahh2PFNQ0EKR+VVoonUHEyqDUsZohYx8o6TzKIWJtISZXM8dDso49w1e+DvlD56Iyu/z3Z60MFrd3iOVIkfrp+Vm/GQb9+a8ZJr6hhytH2qlHUU7wc9sRSnhWsoVxHc7MIfTqJowzGGuwyI/iZJa1dJYcHfmw2Qs/gz3p9gg+Tilx4mli+CBAj8YrRZik1lQUD3bDobrYOucM2DK2cjHvCNjyhJhX8M8byoyoA7kwoCpUQ+ugWF0gitLHeDv4P7I7CcwAzpO7Uo0tSgLicwnSr5AVD1XcQ3FHAlIZvot7vxplgwSr6LMF02OasrKpmioLSmWR6llo3LZlF5SgslRTFoy5TSTFs26akrLJkc3iZ6IEp0HCz6vptvkjbcvHeaZd5gn95K1GeGljzzrPpKSR54+SgukaL4rq5LHyWSzOtmYUNJKyZNKRislxZJRS45cyuslRzBpxdwxtKyFXjb2bPB50T8g/Nz40wWabOKJMzU+R3FeO73fd/Yfe0yNUfyPvPsf' | 'e1cib/data/Catalog.Users?ref=aa7f120ed92fbced11eb13d7279770c0' |
