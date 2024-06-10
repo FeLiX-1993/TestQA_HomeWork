@@ -17,7 +17,7 @@
 Поле ввода количества недоступно для редактирования
 
 7) Приложения
-Скрин - 
-Ссылка на тест - https://github.com/FeLiX-1993/TestQA_HomeWork/blob/main/Module6/data_attachments_1cf9f7faac147dcd.png
+Скрин - https://github.com/FeLiX-1993/TestQA_HomeWork/blob/main/Module6/data_attachments_1cf9f7faac147dcd.png
+Ссылка на тест - https://github.com/FeLiX-1993/TestQA_HomeWork/blob/main/Module6/%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%20%D0%B2%D0%B2%D0%BE%D0%B4%D0%B0%20%D0%BA%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0.feature
 База для воспроизведения - Демонстрационное приложение (1.0.38.2)
 
