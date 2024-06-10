@@ -18,6 +18,6 @@
 
 7) Приложения
 Скрин - 
-Ссылка на тест - 
+Ссылка на тест - https://github.com/FeLiX-1993/TestQA_HomeWork/blob/main/Module6/data_attachments_1cf9f7faac147dcd.png
 База для воспроизведения - Демонстрационное приложение (1.0.38.2)
 
